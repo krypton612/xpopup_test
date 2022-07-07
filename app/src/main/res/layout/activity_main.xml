@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+            <Button
+                android:id="@+id/estilo1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center"
+                android:textColor="@color/white"
+                android:text="estilo 1"
+                />
+
+            <Button
+                android:id="@+id/estilo2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center"
+                android:textColor="@color/white"
+                android:text="estilo 2"
+                />
+            <Button
+                android:id="@+id/estilo3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center"
+                android:textColor="@color/white"
+                android:text="estilo 3"
+                />
+            <Button
+                android:id="@+id/estilo4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center"
+                android:textColor="@color/white"
+                android:text="estilo 4"
+                />
+            <Button
+                android:id="@+id/estilo5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center"
+                android:textColor="@color/white"
+                android:text="estilo 5"
+                />
+            <Button
+                android:id="@+id/estilo6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center"
+                android:textColor="@color/white"
+                android:text="estilo 6"
+                />
+            <Button
+                android:id="@+id/estilo7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center"
+                android:textColor="@color/white"
+                android:text="estilo 7"
+                />
+            <Button
+                android:id="@+id/estilo8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center"
+                android:textColor="@color/white"
+                android:text="estilo 8"
+                />
+
+            <Button
+                android:id="@+id/estilo9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center"
+                android:textColor="@color/white"
+                android:text="estilo 9"
+                />
+            <Button
+                android:id="@+id/estilo10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center"
+                android:textColor="@color/white"
+                android:text="estilo 10"
+                />
+            <Button
+                android:id="@+id/estilo11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center"
+                android:textColor="@color/white"
+                android:text="estilo 11"
+                />
+            <Button
+                android:id="@+id/estilo12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center"
+                android:textColor="@color/white"
+                android:text="estilo 12"
+                />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
